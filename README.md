@@ -63,3 +63,9 @@ install.packages(c("shiny", "svglite", "png", "ggplot2"))
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). This license allows anyone to use, modify, and distribute the software as they see fit.
 
+![Maurer_rose_n9 85_d75 86_maurer115 5_gg0_step18](https://github.com/Rotoslider/Maurer-Rose-with-R/assets/15005663/d6d049cb-a707-4fdf-8a62-b386aab44e61) ![Maurer_rose_n9 85_d75 86_maurer115 5_gg0_step10](https://github.com/Rotoslider/Maurer-Rose-with-R/assets/15005663/a9209d18-270d-45a4-879b-505184e61142)
+![Maurer_rose_n9 85_d75 86_maurer115 5_gg0_step3](https://github.com/Rotoslider/Maurer-Rose-with-R/assets/15005663/7f1c6ac1-19f7-4c8b-aaa8-e7035345bdc1)  ![Maurer_rose_n5 29_d85 74_maurer136 1_gg0_step43](https://github.com/Rotoslider/Maurer-Rose-with-R/assets/15005663/31efd978-91a9-4bea-82cd-b8b9d1d212a5)
+
+
+
+
